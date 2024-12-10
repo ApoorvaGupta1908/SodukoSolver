@@ -1,1 +1,1 @@
-A C++ Code that solves a 9*9 Soduko Grid using the concept of recursion and backtracking.
+A C++ Code that solves a 9*9 Sudoko Grid using the concept of recursion and backtracking.
